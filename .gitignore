@@ -1,0 +1,6 @@
+# Ignore Gradle related artifacts
+.gradle
+build
+
+# Ignore Intellij related artifacts
+/.idea/
